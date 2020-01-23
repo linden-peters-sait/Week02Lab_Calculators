@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Arithmetic Calculator</title>
     </head>
     <body>
         <h1>Arithmetic Calculator</h1>
